@@ -1,0 +1,1 @@
+I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analytics with Professor Ashutosh Bhatia and on social network mining with Professor Vinti Agarwal.
