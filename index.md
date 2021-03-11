@@ -1,4 +1,4 @@
-I am a pre-final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. 
+I am a pre-final year undergraduate student at # Birla Institute of Technology and Science, Pilani, India. 
 
 I am passionate about Quantum Computing and intend on exploring various aspects of the field.  
 
